@@ -1,0 +1,103 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "James Butt",
+      "country": "Algeria",
+      "representative": "Ioni Bowcher",
+      "date": "09/13/2015",
+      "balance": "$70,663.00",
+      "status": "UNQUALIFIED"
+    },
+    {
+      "id": 2,
+      "name": "Josephine Darakjy",
+      "country": "Egypt",
+      "representative": "Amy Elsner",
+      "date": "02/09/2019",
+      "balance": "$82,429.00",
+      "status": "PROPOSAL"
+    },
+    {
+      "id": 3,
+      "name": "Art Venere",
+      "country": "Panama",
+      "representative": "Asiya Javayant",
+      "date": "05/13/2017",
+      "balance": "$28,334.00",
+      "status": "QUALIFIED"
+    },
+    {
+      "id": 4,
+      "name": "Lenna Paprocki",
+      "country": "Slovenia",
+      "representative": "Xuxue Feng",
+      "date": "09/15/2020",
+      "balance": "$88,521.00",
+      "status": "NEW"
+    },
+    {
+      "id": 5,
+      "name": "Donette Foller",
+      "country": "South Africa",
+      "representative": "Asiya Javayant",
+      "date": "05/20/2016",
+      "balance": "$93,905.00",
+      "status": "PROPOSAL"
+    },
+    {
+      "id": 6,
+      "name": "Simona Morasca",
+      "country": "Egypt",
+      "representative": "Ivan Magalhaes",
+      "date": "02/16/2018",
+      "balance": "$50,041.00",
+      "status": "QUALIFIED"
+    },
+    {
+      "id": 7,
+      "name": "Mitsue Tollner",
+      "country": "Paraguay",
+      "representative": "Ivan Magalhaes",
+      "date": "02/19/2018",
+      "balance": "$58,706.00",
+      "status": "RENEWAL"
+    },
+    {
+      "id": 8,
+      "name": "Leota Dilliard",
+      "country": "Serbia",
+      "representative": "Onyama Limba",
+      "date": "08/13/2019",
+      "balance": "$26,640.00",
+      "status": "RENEWAL"
+    },
+    {
+      "id": 9,
+      "name": "Sage Wieser",
+      "country": "Egypt",
+      "representative": "Ivan Magalhaes",
+      "date": "11/21/2019",
+      "balance": "$65,369.00",
+      "status": "UNQUALIFIED"
+    },
+    {
+      "id": 10,
+      "name": "Kris Marrier",
+      "country": "Mexico",
+      "representative": "Onyama Limba",
+      "date": "07/07/2019",
+      "balance": "$26,640.00",
+      "status": "RENEWAL"
+    },
+    {
+      "id": 11,
+      "name": "Seunggi Ryu",
+      "country": "South Korea",
+      "representative": "name",
+      "date": "04/23/1998",
+      "balance": "$12,345.00",
+      "status": "RENEWAL"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+//  TypeScript 컴파일러의 옵션들을 지정하는 속성
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
